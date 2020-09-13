@@ -714,9 +714,9 @@
           "text": "",
           "key": null,
           "fontAsset": 29313023,
-          "fontSize": 32,
+          "fontSize": 40,
           "minFontSize": 8,
-          "maxFontSize": 32,
+          "maxFontSize": 40,
           "autoFitWidth": false,
           "autoFitHeight": false,
           "maxLines": null,
@@ -739,7 +739,7 @@
             -460,
             -570,
             -460,
-            140
+            125
           ],
           "alignment": [
             0.5,
